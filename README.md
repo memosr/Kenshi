@@ -1,4 +1,5 @@
 <h1 align="center">Kenshi</h1>
+
 > Kurulumu basit, ne kadar süreceği belli değil. Node devamlı güncellemeler alabiliyor. Sık sık kontrol edin.
 
 > Ödüllü ancak iyi performansı veren 200 node ödül alabilir. Devamlı güncel kalmakta önemli.
