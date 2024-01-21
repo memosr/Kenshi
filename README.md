@@ -38,9 +38,9 @@ sudo npm i -g @kenshi.io/unchained@latest
 # conf.yaml içine girelim
 sudo nano conf.yaml
 
-# burada sadece Rues kısmını kendi adınız yapın - gerisini ben ayarladım
+# burada sadece Memo kısmını kendi adınız yapın - gerisini ben ayarladım
 log: info
-name: Rues
+name: Memo
 lite: true
 rpc:
   ethereum:
@@ -77,9 +77,7 @@ unchained start conf.yaml --generate
 
 # Notlar:
 > Son komuttan sonra loglar akmaya başlayacak ve sync olmaya başlayacaksınız
-> 5 dakikada bir gözüken Leaderboard'da siz OLMAYACAKSINIZ
-> Bu leaderboard - sizin node'larınız tarafından diğer nodelara verilen puanlardır
-> Sizde başkaların nodelarından puan alacaksınız - hetzner'iniz varsa kafanız rahat olabilir.
+> Kısa sürede puanlarınız gelmeye başlaycaktır.
 ```
 
 > WinSCP veya mobaxterm benzeri bir uygulama ile conf.yaml dosyasını yedekleyelim.
