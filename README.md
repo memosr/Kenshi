@@ -18,11 +18,11 @@
 <h1 align="center">Kurulum</h1>
 
 ```console
-Sunucu Güncelleme
+# Sunucu Güncelleme
 sudo apt update -y && sudo apt upgrade -y
 
-Burada 20 ve 60 saniye bekliyoruz
-Komutları sırasıyla girelim:
+# Burada 20 ve 60 saniye bekliyoruz
+# Komutları sırasıyla girelim:
 curl -sL https://deb.nodesource.com/setup_20.x -o /tmp/nodesource_setup.sh
 sudo bash /tmp/nodesource_setup.sh
 sudo apt install nodejs
